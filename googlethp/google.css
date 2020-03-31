@@ -1,0 +1,98 @@
+.body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link 
+{
+    text-decoration: none;
+    color: blue;
+    font-size: 16px;
+    margin-top:15px;
+}
+
+i 
+{
+    font-size:17px;
+    color:black;
+}
+
+i:hover 
+{
+    color:darkgrey;
+}
+
+.link:hover 
+{
+    text-decoration: underline;
+    color:darkgrey;
+}
+.tahtania {
+    vertical-align: middle;
+    border: 1px solid #d6d5d2;
+    border-bottom:1px solid #fff;
+    width:100%;
+    
+}
+
+.foot>.item>a
+{
+    font-size:14px;
+    color:darkgrey;
+}
+
+.logo 
+{
+    margin: 140px auto 0px auto;
+    width: 272px;
+    height: 92px;
+}
+
+
+.recherche {
+    width: 590px;
+    height: 45px;
+    border-radius: 30px;
+    margin:30px auto 0 auto;
+    background-image: url('images/loupe.png');
+    background-position: 10px 10px; 
+    padding-left: 40px;
+    background-size: 25px; 
+    background-repeat: no-repeat;
+    border:1px solid #d6d5d2;
+}
+
+.recherche:hover {
+    box-shadow: 0px 10px 5px -6px #d6d5d2;
+}
+ 
+.recherche:focus
+{
+    box-shadow: 0px 10px 5px -6px #d6d5d2;
+    border:1px solid #d6d5d2;
+}
+
+.button_center {
+    border :2px solid white;
+    margin-top:40px;
+    margin-left: 10px;
+    background-color: white;
+    font-size:15px;
+    color:grey;
+    border-radius: 5px;
+}
+
+.button_center:hover {
+    border:2px solid #d6d5d2;
+    color: #000;
+}
+
+
+.dispo {
+    font-size: 13px;
+    color: #000;
+    margin:25px auto;
+}
+
+
+
